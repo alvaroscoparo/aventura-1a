@@ -10,7 +10,7 @@ body {
 }
 
 button {
-    background-color: #d0ff0193;
+    background-color: #17aa9293;
     color: rgb(0, 0, 0);
     font-family: "Bai Jamjuree", sans-serif;
 }
@@ -29,5 +29,5 @@ main {
 }
 
 img {
-    max-width: 33%;
+    max-width: 50%;
 }
